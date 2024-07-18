@@ -24,7 +24,10 @@ You can install the necessary libraries using:
 
 ## Model Weights
 
-Download the model weights from the provided link and save them in your directory. Update the `mpox_model_WEIGHTS_PATH` in the script with the path to the downloaded weights.
+Download the model weights from the provided link and save them in your directory. Here is the link to download the weights:
+[Download Model Weights](https://drive.google.com/file/d/17M5k-w15Ao4P7mOZFi8r89eRrK9HnO7r/view?usp=sharing)
+Update the `mpox_model_WEIGHTS_PATH` in the script with the path to the downloaded weights.
+
 
 ## Usage
 
