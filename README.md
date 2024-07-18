@@ -1,5 +1,5 @@
 
-# MPOX Detection Model
+# MPOX Model
 
 This repository contains a deep learning model for detecting Monkeypox (MPOX) from images using a Vision Transformer (ViT) as the backbone. The model can classify images into three categories: 'MPOX', 'Normal', and 'Other'. The 'MPOX' class used in this model is based entirely on 100% synthetic data.
 
