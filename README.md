@@ -30,13 +30,6 @@ To use the model to predict on new images, follow these steps:
 2. Run notebook. The output will display the image along with its predicted class and the confidence score of the prediction.
 
 
-## Script Overview
-
-The script `mpox_model_predict.py` includes the following functionalities:
-- Loading the ViT model pre-trained on ImageNet with the top layer customized for our three classes.
-- A function `mpox_predict` that handles image preprocessing, model prediction, and visualization of results.
-
-
 ## License
 
 Specify the license under which your project is released. This informs users how they can legally use the project's code.
