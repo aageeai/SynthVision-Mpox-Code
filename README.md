@@ -29,6 +29,10 @@ To use the model to predict on new images, follow these steps:
 1. Update the `image_path` variable in the script to the path of the image you want to test.
 2. Run notebook. The output will display the image along with its predicted class and the confidence score of the prediction.
 
+## Model Training Dataset
+
+The model was trained using the Mpox dataset, which consists of 1,000 synthetic clinical images generated with our proprietary SynthVision data generation pipeline. The dataset is specifically designed for Mpox digital detection research. It includes comprehensive coverage of lesions in various stages of the disease on different body parts, ensuring a diverse and comprehensive set of images. The dataset features representations of three different skin types, classified according to the Fitzpatrick scale. All images in the dataset are 100% synthetic. For more information, visit the dataset repository: [SynthVision-Mpox](https://github.com/aageeai/SynthVision-Mpox).
+
 
 ## License
 
