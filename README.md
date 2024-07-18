@@ -37,8 +37,3 @@ To use the model to predict on new images, follow these steps:
 2. Run notebook. The output will display the image along with its predicted class and the confidence score of the prediction.
 
 
-
-## License
-
-Specify the license under which your project is released. This informs users how they can legally use the project's code.
-
